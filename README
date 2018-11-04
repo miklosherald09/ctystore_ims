@@ -1,6 +1,7 @@
 A mobile application written in React Native. 
 
 Technologies:
+  -Expo.io
   -MongoDB
   -Microsoft Cloud AppEngine
   -mLad
