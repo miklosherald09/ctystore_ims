@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "mongoose-unique-validator": "^2.0.2",
+    "nodemon": "^1.18.4"
+  },
+  "author": "Miklos Herald Narra",
+  "license": "ISC",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/heroku/ctyapidemo",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
